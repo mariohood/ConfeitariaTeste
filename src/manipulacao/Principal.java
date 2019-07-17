@@ -22,7 +22,7 @@ public class Principal {
     Sabor chocolate = new Sabor ("Chocolate");
     Sabor laranja = new Sabor ("Laranja");
     Sabor limao = new Sabor ("Limao");
-    
+    //Mario
     //Criando coberturas
     Cobertura cCafeComLeite = new Cobertura ("Café com Leite","Chocolate","Bombons Brancos");
     Cobertura cNoiteDeGala = new Cobertura ("Noite de Gala","Nata","Morangos");
